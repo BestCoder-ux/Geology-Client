@@ -1,4 +1,4 @@
-# Minecraft 1.8.9 Client
+# Geology 1.8.9 Client
 
 
 
